@@ -2,7 +2,7 @@
 
 ¡Hola!
 
-Si estás aquí, es porque o no sabes /bold{HTML} y quieres saber cómo posiciono mediante líneas de código las páginas web de las empresas o ....a lo mejor eres un reclutador que viene a comprobar mis habilidades de programación, en cualquier caso... 
+Si estás aquí, es porque o no sabes HTML5 y quieres saber cómo posiciono mediante líneas de código las páginas web de las empresas o ....a lo mejor eres un reclutador que viene a comprobar mis habilidades de programación, en cualquier caso... 
 
 
 ¡Bienvenidos!
